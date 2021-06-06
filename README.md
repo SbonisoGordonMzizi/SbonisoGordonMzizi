@@ -4,7 +4,7 @@
 ## I'm a Developer,Network Engineer, Redhat Engineer!!
 
 - 🔭 I am super interested in CyberSec,Web Backend ,Destributed Systems and NetWork Programming
-- 🌱 I’m currently learning python and java network programming
+- 🌱 I’m currently learning Apache Kafka and Spring Framework
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to gym
