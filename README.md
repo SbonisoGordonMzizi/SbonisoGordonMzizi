@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Apache Kafka,Spring Framework and Hibernate ORM
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to gym
+- ⚡ Fun fact: I love to gym and studying
 
 
 ### Connect with me:
