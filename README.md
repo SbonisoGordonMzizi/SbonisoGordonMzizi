@@ -1,12 +1,13 @@
 ### Hello there, I'm Sboniso Gordon Mzizi 👋
 
 
-## I'm a Developer,Network Engineer, Redhat Engineer!!
+## I'm a Developer, Network Engineer and Redhat Engineer!!
 
-- 🔭 I am super interested in CyberSec,Web Backend ,Destributed Systems and NetWork Programming, APIs
-- 🌱 I’m currently learning Apache Kafka,Spring Framework, APIs and Hibernate ORM
+- 🔭 I am super interested in CyberSecurity, Destributed Systems , NetWork Programming and APIs
+- 🌱 Tech i am interested in is Apache Kafka, Apache Spark, SpringBoot , FastAPI 
+- 🌱 Languages : JAVA , SCALA and PYTHON 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goal: Contribute to Open Source projects
 - ⚡ Fun fact: I love to gym and studying
 
 
