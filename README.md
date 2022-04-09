@@ -5,7 +5,7 @@
 
 - 🔭 I am super interested in CyberSecurity, Destributed Systems , NetWork Programming and APIs
 - 🌱 Tech i am interested in is Apache Kafka, Apache Spark, SpringBoot ,FastApi and django
-- 🌱 Languages : JAVA, SCALA, PYTHON3 , JAVASCRIPT and SQL
+- 🌱 Languages : JAVA, PYTHON3 , JAVASCRIPT and SQL
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goal: Contribute to Open Source projects
 - ⚡ Fun fact: I love to gym and studying
