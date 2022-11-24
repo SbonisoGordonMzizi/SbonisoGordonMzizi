@@ -3,7 +3,7 @@
 
 ## I'm a DevOps Engineer
 
-- 🔭 I am super interested in : CyberSecurity, Micro Services , Automation and Building APIs.
+- 🔭 I am super interested in : CyberSecurity, MicroServices , Automation and Building APIs.
 - 🌱 Tech i am interested in is : Apache Kafka, SpringBoot, Docker, AWS cloud and  kubernetes.
 - 🌱 Languages : JAVA, PYTHON3 and SQL
 - 👯 I’m looking to collaborate with other developers
