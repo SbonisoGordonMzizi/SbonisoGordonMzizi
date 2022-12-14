@@ -1,11 +1,11 @@
 ### Hello there, I'm Sboniso Gordon Mzizi 👋
 
 
-## I'm a DevOps Engineer
+## I'm a DevSecOps Engineer
 
 - 🔭 I am super interested in : CyberSecurity, MicroServices , Automation and Building APIs.
-- 🌱 Tech i am interested in is : Apache Kafka, SpringBoot, Docker, AWS cloud and  kubernetes.
-- 🌱 Languages : JAVA, PYTHON3 and SQL
+- 🌱 Tech i am interested in is : Apache Kafka, SpringBoot, .NET Core , ASP.NET, Docker, AWS cloud and  kubernetes.
+- 🌱 Languages : JAVA, PYTHON3, C# and SQL
 - 👯 I’m looking to collaborate with other developers
 - 🥅 My Goal: Contribute to Open Source projects
 - ⚡ Fun fact: I love Redhat Linux.
