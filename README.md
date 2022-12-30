@@ -4,8 +4,11 @@
 ## I'm a Software Engineer
 
 ## 🔭 I am super interested in : CyberSecurity, MicroServices , Automation and Building APIs.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">
+
 &nbsp;
 &nbsp;
 &nbsp;
