@@ -2,7 +2,7 @@
 
 
 ## I'm a Software Engineer
-## 🔭 I am super interested in : CyberSecurity, MicroServices , Automation ,Building APIs and Data Engineering.
+## 🔭 I am super interested in : CyberSecurity, MicroServices , Automation ,Building APIs , Data Engineering and Cloud.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">
 
