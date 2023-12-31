@@ -1,7 +1,7 @@
 ### Hello there, I'm Sboniso Gordon Mzizi 👋
 
 
-## I'm a Software Engineer
+## I'm a Junior Solutions Developer
 ## 🔭 I am super interested in : CyberSecurity, MicroServices , Automation ,Building APIs , Data Engineering and Cloud.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">
@@ -52,7 +52,6 @@
 
 ### IDEs and Text Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
