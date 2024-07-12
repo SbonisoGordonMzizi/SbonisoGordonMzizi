@@ -1,8 +1,8 @@
-### Hello there, I'm Sboniso Gordon Mzizi 👋
+### Hello there, I'm Sboniso Gordon Mzizi 👋 (Mr Tech Lover)
 
 
-## I'm a Junior Solutions Developer
-## 🔭 I am super interested in : CyberSecurity, MicroServices , Automation ,Building APIs , Data Engineering and Cloud.
+## Currently I am a Junior Solutions Developer (Salesforce Platfrom)
+## 🔭 I am super interested in : Cloud Cyber Security, Integration , Automation and Building APIs
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">
 
