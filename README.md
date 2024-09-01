@@ -1,34 +1,18 @@
 ### Hi there! 👋 
 
 
-## I'm Sboniso Gordon Mzizi, a passionate back-end developer and data engineer
-## 🔭 I am super interested in : Cloud Cyber Security, Integration , Automation and Building APIs
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">
+### I'm Sboniso Gordon Mzizi, A Passionate Back-End Developer & Data Engineer.
+### What I Do!
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+- **Back-End Development:** Designing and implementing high-performance microservices and RESTful APIs.
+- **Data Engineering:** Building and optimizing ETL pipelines, data lakes, and big data solutions.
+- **System Architecture:** Creating scalable architectures for complex systems and ensuring smooth deployment and maintenance.
 
+| Information Summary  |
+|---|
+|<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SbonisoGordonMzizi&show_icons=true&theme=radical"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SbonisoGordonMzizi&layout=compact">|
+
+### 🛠️ Technologies & Tools
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
