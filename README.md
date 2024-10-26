@@ -4,7 +4,7 @@
 ### I'm Sboniso Gordon Mzizi, Passionate Back-End Developer & Data Engineer.
 ### What I Do!!!
 
-- **Back-End Development:** Designing and implementing high-performance microservices and RESTful APIs.
+- **Back-End Development:** Designing and implementing high-performance microservices and monolithic RESTful APIs.
 - **Data Engineering:** Building and optimizing ETL pipelines, data lakes, and big data solutions.
 - **System Architecture:** Creating scalable architectures for complex systems and ensuring smooth deployment and maintenance.
 
